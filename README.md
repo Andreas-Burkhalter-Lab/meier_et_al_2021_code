@@ -23,3 +23,7 @@ README for functions used in Meier et al. 2021 - Modular network between postrhi
 -dendrite_density_analysis.m was used for quantification of dendrite lengths and cell densities (Figures 8-9)
 
 -circNormalize.m was used for spatial normalization preprocessing of tissue images 
+
+PMID: 33849948 
+PMCID: PMC8260166 
+DOI: 10.1523/JNEUROSCI.2185-20.2021
