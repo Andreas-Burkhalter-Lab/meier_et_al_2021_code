@@ -4,7 +4,7 @@ README for functions used in Meier et al. 2021 - Modular network between postrhi
 -patchcounting_analysis.m was used to find spatial distribution and shape features of M2+ patches (Figure 2)
 
 
--draw_major_xis.m was used to find the major axis of both cortical areas and M2+ patches (Figure 2)
+-draw_major_axis.m was used to find the major axis of both cortical areas and M2+ patches (Figure 2)
 
 
 -patch_shape_plotting.m was run to create plots shown in Figure 2 after patchcounting_analysis.m had been run
