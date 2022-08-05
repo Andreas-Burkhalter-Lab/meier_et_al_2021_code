@@ -13,6 +13,7 @@ README for functions used in Meier et al. 2021 - Modular network between postrhi
 -analyze_patchiness.m is the main function used for extracting M2+ patch/quantile boundaries and quantifying viral expression intensities in different compartments (Figures 6-7)
 
 ---see the folder 'sample_data_for_analyze_patchiness.m' for a sample case on which to use _analyze_patchiness
+
 ---this function will find quantile boundaries and then quantify viral expression intensity in each quantile
 
 ---resultant data can be found in the 'analysis_results.mat' file
